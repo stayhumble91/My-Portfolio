@@ -70,7 +70,7 @@
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"GitHub",
         "description":"I use Github for all of my projects so far. I have used Github for version control in small teams and have love playing around with contributing to Open Source Projects.",
         "image":"github.jpg"
       },
@@ -78,7 +78,7 @@
       {
         "name":"React Js",
         "description":"I am a rookie to React, and was pretty difficult at first. But its starting to be my one of my fave languages, due its simplicity and will continue to use it going forward.",
-        "image":"react.jpg"
+        "image":"react.png"
       },
       
       {
@@ -87,9 +87,9 @@
         "image":"node-js.png"
       },
       {
-        "name":"Bootstrap 4",
+        "name":"Bootstrap",
         "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
-        "image":"bootstrap.jpg"
+        "image":"bootstrap.png"
       },
       {
         "name":"MongoDB",
