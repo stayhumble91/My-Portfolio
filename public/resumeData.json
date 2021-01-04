@@ -34,7 +34,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage":"Love learning and coming across  new technologies",
     "education":[
       {
         "school":"Coding Dojo",
@@ -43,7 +43,7 @@
       },
       {
         "school":"South Seattle Community College",
-        "degree":"Running start/College prep",
+        "degree":"Running start/College",
         "graduated":"",
         "description":""
       }
@@ -53,7 +53,7 @@
         "company":"Starbucks HQ ",
         "title": "GSOC Operator",
         "years": "OCtober 2020 - Present",
-        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security as a whole."
+        "description": "Access Control: Monitored and responded to alarms triggered at corporate headquarters, roastery, Security/Incident Management: Monitored and responded to security incidents in progress at Starbucks headquarters, and roasting plants and regional offices throughout US, Canada, and Costa Rica."
       },
       {
         "company":"SomDesign",
@@ -83,7 +83,7 @@
       
       {
         "name":"Node JS",
-        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "description":"Node JS is my server-side scripting language of choice. ",
         "image":"node-js.png"
       },
       {
