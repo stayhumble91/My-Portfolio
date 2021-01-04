@@ -2,12 +2,12 @@
   "main": {
     "name":"Yahya Mohamud",
     "role":"Frontend/Web developer",
-    "description":" currently employed by ",
-    "employer":"Starbucks HQ GSCOC Operator",
+    "description":"Actively seeking",
+    "employer":"New Oppertunities",
     "jobDescription":"",
     "image":"ProfilePic.jpg",
     "bio":"Energetic contributor with demonstrable details orientation and multitasking/organizational proficiency. Willing to take any responsibilities regardless of the challenge.",
-    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, send me a email or by using the form below if you'd like to get in contact with me.",
     "email": "stayhumble206@gmail.com",
 
     "address":{
@@ -37,55 +37,54 @@
     "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education":[
       {
-        "school":"University of Victoria",
-        "degree":"Bachelors in Computer Science, Software Engineering Option",
-        "graduated":"Expected April 2018",
-        "description":"Under the recommendation and Guidance of the Head Coach of the UVIC soccer team, I transferred to the University of Victoria. Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+        "school":"Coding Dojo",
+        "degree":"Bootcamp",
+        "description":"Web Development Bootcamp. 70+ hours per week including project based coding, accelerator designing and building web applications in both front-end and back-end environments. Working on individual and group projects in the Node.js frameworks. Learning DRY coding, RESTful routing, MVC, TDD and pair programming."
       },
       {
-        "school":"Grande Prairie Regional College",
-        "degree":"Computer Systems Technology",
-        "graduated":"April 2013",
-        "description":"I attended GPRC for my first 2 years of post-secondary on a scholarship for the college soccer team. While here, I studied Computer Systems Technology, a 2 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, created small video games, hand-coded Space Invaders from scratch in Assembly Language, built and coded an Arduino Robot to navigate obstacle courses, a lot of Java and C++ programming for data structures, and much more."
+        "school":"South Seattle Community College",
+        "degree":"Running start/College prep",
+        "graduated":"",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Shop Your Own Mortgage",
-        "title": "Software Security Engineer",
-        "years": "August 2017 - Present",
+        "company":"Starbucks HQ ",
+        "title": "GSOC Operator",
+        "years": "OCtober 2020 - Present",
         "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security as a whole."
       },
       {
-        "company":"City of Fort St. John",
-        "title":"Utility Maintenance Technician 1 / Labourer ",
-        "years":"April 2014 - September 2017",
-        "description":"Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
+        "company":"SomDesign",
+        "title":"Freelance",
+        "years":"August 2017 - July 2020",
+        "description":"Freelance Web Developing with local web design firm. Contributed by redesigning mockups, HTML & CSS responsive websites."
       },
       {
-        "company":"School District 60",
-        "title":"IT Technician",
-        "years":"April 2012 - September 2013",
-        "description":"Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
+        "company":"Slalom Consulting",
+        "title":"Intern",
+        "years":"July 2015 - December 2015",
+        "description":"Reimaged and configured laptops. Also was in charge of setting up firewalls/bit encryption for slalom partners/employees"
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
-        "image":"git.jpg"
+        "description":"I use Github for all of my projects so far. I have used Github for version control in small teams and have love playing around with contributing to Open Source Projects.",
+        "image":"github.jpg"
       },
       
       {
         "name":"React Js",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward.",
+        "description":"I am a rookie to React, and was pretty difficult at first. But its starting to be my one of my fave languages, due its simplicity and will continue to use it going forward.",
         "image":"react.jpg"
       },
       
       {
         "name":"Node JS",
         "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
-        "image":"node.jpg"
+        "image":"node-js.png"
       },
       {
         "name":"Bootstrap 4",
@@ -98,22 +97,30 @@
         "image":"mongo.jpg"
       },
       {
-        "name":"Heroku",
-        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image":"heroku.jpg"
+        "name":"Netlify",
+        "description":"I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"netlify.png"
       }
     ]
   },
   "portfolio":{
     "projects": [
+      {
+        "title": "Hacker News",
+        "image": "HN.png"
+      },
+      {
+        "title": "Blox Score",
+        "image": "bloxscore.png"
+      }
     
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"I have had the opportunity to work with Yahya on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user":"Mustafa Ahmed - Somdesign"
+        "text":"I have had the opportunity to work with Yahya on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Yahya tends to excel at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Mustafa Ahmed - SomDesign"
       }
     ]
   }

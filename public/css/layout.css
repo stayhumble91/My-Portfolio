@@ -342,8 +342,8 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 30px;
-   width: 30px;
+   height: 300px;
+   width: 300px;
    font-size: 18px;
    line-height: 30px;
    text-align: center;
@@ -495,7 +495,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/picture-of-the-Seattle-Space-Needle-from-Kerry-Park-by-Erin-Wagnild.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
