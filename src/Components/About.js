@@ -27,14 +27,13 @@ class About extends Component {
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
+                 
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{city}<br />
-						         {state}, {zip}
+						   <span></span><br />
+						   <span><br />
                    </span><br />
-						   <span>{phone}</span><br />
-                     <span><a href="stayhumble206@gmail.com">{email}</a></span>
+						   <span></span><br />
+                     <span></span>
 					   </p>
                </div>
                <div className="columns download">

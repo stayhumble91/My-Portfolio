@@ -92,9 +92,9 @@
         "image":"bootstrap.png"
       },
       {
-        "name":"MongoDB",
-        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
-        "image":"mongo.jpg"
+        "name":"Javascript",
+        "description":"JavaScript brings the familiarity and comfort of Object Oriented Programming concepts into web development. It brings a lot of dynamic functionality to web pages and makes a website much intuitive and interactive.",
+        "image":"javascript.png"
       },
       {
         "name":"Netlify",
