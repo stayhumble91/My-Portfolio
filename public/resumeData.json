@@ -19,6 +19,7 @@
     "website": "http://www.yahyadev.com",
     "resumedownload":"https://drive.google.com/file/d/1H4pqMcT1RO0O0Cxta3_4oZsO0jU4nEko/view?usp=sharing",
     "social":[
+     
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/yahya-mohamud-7a9283100/",
@@ -91,11 +92,7 @@
         "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
         "image":"bootstrap.png"
       },
-      {
-        "name":"Javascript",
-        "description":"JavaScript brings the familiarity and comfort of Object Oriented Programming concepts into web development. It brings a lot of dynamic functionality to web pages and makes a website much intuitive and interactive.",
-        "image":"javascript.png"
-      },
+      
       {
         "name":"Netlify",
         "description":"I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
