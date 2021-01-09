@@ -31,6 +31,12 @@
         "name":"github",
         "url":"https://github.com/stayhumble91",
         "className":"fa fa-github"
+      },
+
+      {
+        "name":"email",
+        "url":"mailto:stayhumble206@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
