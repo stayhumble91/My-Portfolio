@@ -112,7 +112,7 @@
   },
   "portfolio":{
     "projects": [
-      
+
       {
         "title": "Bitcoin Prices ",
         "image": "Bitz.jpg",
@@ -127,7 +127,7 @@
         "title": "Blox Score",
         "image": "bloxscore.png"
       
-      },
+      }
       
     
     ]
