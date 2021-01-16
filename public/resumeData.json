@@ -112,6 +112,13 @@
   },
   "portfolio":{
     "projects": [
+      
+      {
+        "title": "Bitcoin Prices ",
+        "image": "Bitz.jpg",
+        "url":"  https://bitz-price-app.vercel.app/" 
+      },
+
       {
         "title": "Hacker News",
         "image": "HN.png"
@@ -121,11 +128,7 @@
         "image": "bloxscore.png"
       
       },
-      {
-        "title": "Bitcoin Prices ",
-        "image": "Bitz.jpg",
-        "url":"  https://bitz-price-app.vercel.app/" 
-      }
+      
     
     ]
   },
