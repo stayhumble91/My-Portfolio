@@ -119,6 +119,12 @@
       {
         "title": "Blox Score",
         "image": "bloxscore.png"
+      
+      },
+      {
+        "title": "Bitcoin Prices ",
+        "image": "Bitz.jpg",
+        "url":"  https://bitz-price-app.vercel.app/" 
       }
     
     ]
