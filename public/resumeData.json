@@ -1,124 +1,113 @@
 {
   "main": {
-    "name":"Yahya Mohamud",
-    "role":"Frontend/Web developer",
-    "description":"Actively seeking",
-    "employer":"New Opportunities",
-    "jobDescription":"",
-    "image":"ProfilePic.jpg",
-    "bio":"Energetic contributor with demonstrable details orientation, and multitasking/organizational proficiency. Willing to take any responsibilities regardless of the challenge.",
-    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, send me a email or by using the form below if you'd like to get in contact with me.",
+    "name": "Yahya Mohamud",
+    "role": "Frontend/Web developer",
+    "description": "Actively seeking",
+    "employer": "New Opportunities",
+    "jobDescription": "",
+    "image": "ProfilePic.jpg",
+    "bio": "Energetic contributor with demonstrable details orientation, and multitasking/organizational proficiency. Willing to take any responsibilities regardless of the challenge.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, send me a email or by using the form below if you'd like to get in contact with me.",
     "email": "stayhumble206@gmail.com",
-
-    "address":{
-      
-      "city":"Seattle",
-      "state":"Washington"
-      
+    "address": {
+      "city": "Seattle",
+      "state": "Washington"
     },
     "website": "http://www.yahyadev.com",
-    "resumedownload":"https://drive.google.com/file/d/1H4pqMcT1RO0O0Cxta3_4oZsO0jU4nEko/view?usp=sharing",
-    "social":[
-     
+    "resumedownload": "https://drive.google.com/file/d/1vRcdx0XE3wTCp70WVTEv6wMaMg2dL9bG/view?usp=sharing",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yahya-mohamud-7a9283100/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yahya-mohamud-7a9283100/",
+        "className": "fa fa-linkedin"
       },
-      
-      
       {
-        "name":"github",
-        "url":"https://github.com/stayhumble91",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/stayhumble91",
+        "className": "fa fa-github"
       },
-
       {
-        "name":"email",
-        "url":"mailto:stayhumble206@gmail.com",
-        "className":"fa fa-envelope"
+        "name": "email",
+        "url": "mailto:stayhumble206@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Love learning and coming across new technologies",
-    "education":[
+  "resume": {
+    "skillmessage": "Love learning and coming across new technologies",
+    "education": [
       {
-        "school":"Coding Dojo",
-        "degree":"Bootcamp",
-        "description":"Web Development Bootcamp. 70+ hours per week including project based coding, accelerator designing and building web applications in both front-end and back-end environments. Working on individual and group projects in the Node.js frameworks. Learning DRY coding, RESTful routing, MVC, TDD and pair programming."
+        "school": "Coding Dojo",
+        "degree": "Bootcamp",
+        "description": "Web Development Bootcamp. 70+ hours per week including project based coding, accelerator designing and building web applications in both front-end and back-end environments. Working on individual and group projects in the Node.js frameworks. Learning DRY coding, RESTful routing, MVC, TDD and pair programming."
       },
       {
-        "school":"South Seattle Community College",
-        "degree":"Running start/College",
-        "graduated":"",
-        "description":""
+        "school": "South Seattle Community College",
+        "degree": "Running start/College",
+        "graduated": "",
+        "description": ""
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Starbucks HQ ",
+        "company": "Starbucks HQ ",
         "title": "GSOC Operator",
         "years": "OCtober 2020 - Present",
         "description": "Access Control: Monitored and respond to alarms triggered at corporate headquarters, roastery, Security/Incident Management: Monitored and respond to security incidents in progress at Starbucks headquarters, and roasting plants and regional offices throughout US, Canada, and Costa Rica."
       },
       {
-        "company":"SomDesign",
-        "title":"Freelance",
-        "years":"August 2017 - July 2020",
-        "description":"Freelance Web Developing with local web design firm. Contributed by redesigning mockups, HTML & CSS responsive websites."
+        "company": "SomDesign",
+        "title": "Freelance",
+        "years": "August 2017 - July 2020",
+        "description": "Freelance Web Developing with local web design firm. Contributed by redesigning mockups, HTML & CSS responsive websites."
       },
       {
-        "company":"Slalom Consulting",
-        "title":"Intern",
-        "years":"July 2015 - December 2015",
-        "description":"Reimaged and configured laptops. Also was in charge of setting up firewalls/bit encryption for slalom partners/employees"
+        "company": "Slalom Consulting",
+        "title": "Intern",
+        "years": "July 2015 - December 2015",
+        "description": "Reimaged and configured laptops. Also was in charge of setting up firewalls/bit encryption for slalom partners/employees"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"GitHub",
-        "description":"I use Github for all of my projects so far. I have used Github for version control in small teams and have love playing around with contributing to Open Source Projects.",
-        "image":"github.jpg"
-      },
-      
-      {
-        "name":"React Js",
-        "description":"I am a rookie to React, and was pretty difficult at first. But its starting to be my one of my fave languages, due its simplicity and will continue to use it going forward.",
-        "image":"react.png"
-      },
-      
-      {
-        "name":"Node JS",
-        "description":"Node JS is my server-side scripting language of choice. ",
-        "image":"node-js.png"
+        "name": "GitHub",
+        "description": "I use Github for all of my projects so far. I have used Github for version control in small teams and have love playing around with contributing to Open Source Projects.",
+        "image": "github.jpg"
       },
       {
-        "name":"Bootstrap",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
-        "image":"bootstrap.png"
+        "name": "React Js",
+        "description": "I am a rookie to React, and was pretty difficult at first. But its starting to be my one of my fave languages, due its simplicity and will continue to use it going forward.",
+        "image": "react.png"
       },
       {
-        "name":"Javascript",
-        "description":"JavaScript brings the familiarity and comfort of Object Oriented Programming concepts into web development. It brings a lot of dynamic functionality to web pages and makes a website much intuitive and interactive.",
-        "image":"javascript.png"
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. ",
+        "image": "node-js.png"
       },
       {
-        "name":"Netlify",
-        "description":"I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image":"netlify.png"
+        "name": "Bootstrap",
+        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image": "bootstrap.png"
+      },
+      {
+        "name": "Vercel",
+        "description": "Once I got introduced to ​Vercel, didn't look further. Its is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. I deployed one of my projects (Bitcoin Price app) on Vercel , and it works instantly all with no configuration. Gotta love it!",
+        "image": "vercel.png"
+      },
+      {
+        "name": "Netlify",
+        "description": "I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "netlify.png"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
-
       {
         "title": "Bitcoin Prices ",
         "image": "Bitz.jpg",
-        "url":"  https://bitz-price-app.vercel.app/" 
+        "url": "  https://bitz-price-app.vercel.app/"
       },
-
       {
         "title": "Hacker News",
         "image": "HN.png"
@@ -126,17 +115,14 @@
       {
         "title": "Blox Score",
         "image": "bloxscore.png"
-      
       }
-      
-    
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"I have had the opportunity to work with Yahya on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Yahya tends to excel at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user":"Mustafa Ahmed - SomDesign"
+        "text": "I've had the opportunity to work with Yahya on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Yahya tends to excel at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Mustafa Ahmed - SomDesign"
       }
     ]
   }
