@@ -82,7 +82,7 @@
       {
         "name": "Node JS",
         "description": "Node JS is my server-side scripting language of choice. ",
-        "image": "node-js.png"
+        "image": "nodejs.png"
       },
       {
         "name": "Bootstrap",
@@ -91,13 +91,13 @@
       },
       {
         "name": "Vercel",
-        "description": "Once I got introduced to ​Vercel, didn't look further. Its is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. I deployed one of my projects (Bitcoin Price app) on Vercel , and it works instantly all with no configuration. Gotta love it!",
+        "description": "Once I got introduced to ​Vercel, didn't look further. It is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. I deployed one of my projects (Bitcoin Price app) on Vercel , and it works instantly all with no configuration. Gotta love it!",
         "image": "vercel.png"
       },
       {
         "name": "Netlify",
         "description": "I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "netlify.png"
+        "image": "netlify.jpg"
       }
     ]
   },
