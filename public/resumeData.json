@@ -75,9 +75,9 @@
         "image": "github.jpg"
       },
       {
-        "name": "React",
+        "name": "React Js",
         "description": "I am a rookie to React, and was pretty difficult at first. But its starting to be my one of my fave languages, due its simplicity and will continue to use it going forward.",
-        "image": "react.png"
+        "image": "reactjs.png"
       },
       {
         "name": "Node JS",
@@ -97,7 +97,7 @@
       {
         "name": "Netlify",
         "description": "I use Netlify as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "netlify.jpg"
+        "image": "netlify.png"
       }
     ]
   },
