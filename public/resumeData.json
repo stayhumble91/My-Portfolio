@@ -14,7 +14,7 @@
       "state": "Washington"
     },
     "website": "http://www.yahyadev.com",
-    "resumedownload": "https://drive.google.com/file/d/1VFdXwGPFu1FjaIDtcODIINNpJqR37WT4/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1_7nhyI5z8usXmO3bbVni3Y0Js2rSMglg/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -38,7 +38,7 @@
     "education": [
       {
         "school": "Coding Dojo",
-        "degree": "Bootcamp",
+        "degree": "Software Engineering Certificate",
         "description": "Web Development Bootcamp. 70+ hours per week including project based coding, accelerator designing and building web applications in both front-end and back-end environments. Working on individual and group projects in the Node.js frameworks. Learning DRY coding, RESTful routing, MVC, TDD and pair programming."
       },
       {
@@ -53,19 +53,19 @@
         "company": "Starbucks HQ ",
         "title": "GSOC Operator",
         "years": "OCtober 2020 - Present",
-        "description": "Access Control: Monitored and respond to alarms triggered at corporate headquarters, roastery, Security/Incident Management: Monitored and respond to security incidents in progress at Starbucks headquarters, and roasting plants and regional offices throughout US, Canada, and Costa Rica."
+        "description": "Access Control: Monitor and respond to alarms triggered at corporate headquarters, roastery, Security/Incident Management. Monitor and respond to security incidents in progress at Starbucks headquarters, and roasting plants and regional offices throughout US, Canada, and Costa Rica.Use integral and external systems (internet, social media, news-feed, and other data sources) to monitor risks that could have a potential impact to assets, facilities, and personnel."
       },
       {
         "company": "SomDesign",
         "title": "Freelance",
         "years": "August 2017 - July 2020",
-        "description": "Freelance Web Developing with local web design firm. Contributed by redesigning mockups, HTML & CSS responsive websites."
+        "description": "Freelance Web Developing with local web design firm. Contributed by redesigning mockups, HTML & CSS responsive websites. Worked in a team-oriented environment for all aspects for product development (design, implementation, and maintenance support). Web Developing local web design firm. Contributed by redesigning mockups, HTML & CSS responsive websites. Working with nonprofits and small businesses in the Seattle area."
       },
       {
         "company": "Slalom Consulting",
         "title": "Intern",
-        "years": "July 2015 - December 2015",
-        "description": "Reimaged and configured laptops. Also was in charge of setting up firewalls/bit encryption for slalom partners/employees"
+        "years": "June 2015 - November 2015",
+        "description": "Accessed and documented procedures, tools, and manuals to provide support on company-supplied hardware and equipment. Gathered customer and technology information to determine technical support level; elevate calls to appropriate support level, as necessary. Accurately processed and documented call transactions using tracking software. Assist team members and provide support and solutions to customer queries to meet company objectives. Installed and configured printers and scanners, resetting default device password, and setting up anti-virus/bit locker to prevent cyber-attacks. "
       }
     ],
     "skills": [
