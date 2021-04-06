@@ -50,9 +50,15 @@
     ],
     "work": [
       {
+        "company": "BCG (Bridging Cultural Gaps) ",
+        "title": "Web Producer",
+        "years": "November 2020 - March 2021",
+        "description": "Working with a nonprofit organization, and small businesses. Design custom websites and stragetize Digital Marketing campaigns. Ensured the smooth functioning of the website by reguarly checking the navigation links on the website. Ehance the website by optimizing it with the necessary graphics. Tested newly developed code to ensure correctness and performance of components and templates in the CMS."
+      },
+      {
         "company": "Starbucks HQ ",
         "title": "GSOC Operator",
-        "years": "OCtober 2020 - Present",
+        "years": "October 2020 - Present",
         "description": "Access Control: Monitor and respond to alarms triggered at corporate headquarters, roastery, Security/Incident Management. Monitor and respond to security incidents in progress at Starbucks headquarters, and roasting plants and regional offices throughout US, Canada, and Costa Rica.Use integral and external systems (internet, social media, news-feed, and other data sources) to monitor risks that could have a potential impact to assets, facilities, and personnel."
       },
       {
