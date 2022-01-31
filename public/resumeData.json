@@ -14,7 +14,7 @@
       "state": "Washington"
     },
     "website": "http://www.yahyadev.com",
-    "resumedownload": "https://drive.google.com/file/d/1_7nhyI5z8usXmO3bbVni3Y0Js2rSMglg/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1uazhSgL3rQL0gvca7naQmB6icFPFMptK/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -43,13 +43,23 @@
       },
       {
         "school": "South Seattle Community College",
-        "degree": "Running start/College",
+        "degree": "Associates of Arts",
         "graduated": "",
         "description": ""
       }
     ],
     "work": [
       {
+        "company": "Google",
+        "title": "Facilities Coordinator",
+        "years": "September 2021 - Present",
+        "description": "Actively support an environment of teamwork, cooperation, performance, and personal success. Assisted with the maintenance and enhancements of procedures, Created and handle trouble tickets, managed email, and phone communication for the teams. Provide direction/information to vendors, facilities staff and service providers as required to ensure excellent coordination/execution of work within client environment with minimal disruption"
+      },{
+        "company": "Google",
+        "title": "SSC Shift Supervisor",
+        "years": "March 2021 - September 2021",
+        "description": "Ensure accountability and punctuality of SSC operators. Perform analysis and quality assurance for teamwork product Monitor threat intel, analyze, detect, and take preventive actions. Assist with short term investigations, including but not limited to conducting video reviews, pulling badge reads, escalating incidents to the Global Investigations Team, and reporting incidents to Human Resource Business Partner."
+      },{
         "company": "BCG (Bridging Cultural Gaps) ",
         "title": "Web Producer",
         "years": "November 2020 - March 2021",
@@ -58,7 +68,7 @@
       {
         "company": "Starbucks HQ ",
         "title": "GSOC Operator",
-        "years": "October 2020 - Present",
+        "years": "October 2020 - March 2021",
         "description": "Access Control: Monitor and respond to alarms triggered at corporate headquarters, roastery, Security/Incident Management. Monitor and respond to security incidents in progress at Starbucks headquarters, and roasting plants and regional offices throughout US, Canada, and Costa Rica.Use integral and external systems (internet, social media, news-feed, and other data sources) to monitor risks that could have a potential impact to assets, facilities, and personnel."
       },
       {
